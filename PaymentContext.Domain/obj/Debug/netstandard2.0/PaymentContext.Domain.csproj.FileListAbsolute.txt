@@ -1,0 +1,9 @@
+C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.deps.json
+C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.dll
+C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.pdb
+C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csprojAssemblyReference.cache
+C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfo.cs
+C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.dll
+C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.pdb
