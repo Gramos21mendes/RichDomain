@@ -19,3 +19,6 @@ C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Domain\obj
 C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
 C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
 C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CopyComplete
+C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
+C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
+C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CopyComplete

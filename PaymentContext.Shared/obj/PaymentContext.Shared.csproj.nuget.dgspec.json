@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {}
+    "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+    "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
         "projectName": "PaymentContext.Shared",
-        "projectPath": "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
-        "packagesPath": "C:\\Users\\gramo\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Shared\\obj\\",
+        "projectPath": "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+        "packagesPath": "C:\\Users\\guilherme.mendes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\gramo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\guilherme.mendes\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

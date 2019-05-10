@@ -190,3 +190,7 @@ C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Tests\bin\
 C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Tests\bin\Debug\netcoreapp3.0\PaymentContext.Shared.dll
 C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Tests\bin\Debug\netcoreapp3.0\PaymentContext.Domain.pdb
 C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Tests\bin\Debug\netcoreapp3.0\PaymentContext.Shared.pdb
+C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.0\PaymentContext.Domain.dll
+C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.0\PaymentContext.Shared.dll
+C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.0\PaymentContext.Domain.pdb
+C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.0\PaymentContext.Shared.pdb
