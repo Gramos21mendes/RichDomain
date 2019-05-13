@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.0": {
+      "Flunt/1.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Flunt.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Flunt.dll": {}
+        }
+      },
       "Microsoft.CodeCoverage/16.0.0-preview-20181205-02": {
         "type": "package",
         "compile": {
@@ -2075,7 +2084,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "PaymentContext.Shared": "1.0.0"
+          "PaymentContext.Shared": "1.0.0",
+          "flunt": "1.0.3"
         },
         "compile": {
           "bin/placeholder/PaymentContext.Domain.dll": {}
@@ -2087,6 +2097,9 @@
       "PaymentContext.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "flunt": "1.0.3"
+        },
         "compile": {
           "bin/placeholder/PaymentContext.Shared.dll": {}
         },
@@ -2097,6 +2110,18 @@
     }
   },
   "libraries": {
+    "Flunt/1.0.3": {
+      "sha512": "7/wzY8uowlaM5Xydj428PdF1yp1bfuSEm5ONqnx4xiEbPv/zfGLNQoJQVNzU7cqmt3MmvJEGrCCEg7T1NHFdmA==",
+      "type": "package",
+      "path": "flunt/1.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "flunt.1.0.3.nupkg.sha512",
+        "flunt.nuspec",
+        "lib/netstandard2.0/Flunt.dll"
+      ]
+    },
     "Microsoft.CodeCoverage/16.0.0-preview-20181205-02": {
       "sha512": "SmaP0ky1+U2q4jPKE+gdvY+bPsbCVJ6b087qxP9kNruNYDON/HRIE7sClkOE0hd4NE0H9bBuDF/qG1Rj7IOfjw==",
       "type": "package",
@@ -6966,7 +6991,8 @@
       "Microsoft.NETCore.Platforms >= 3.0.0-preview3.19128.7",
       "Microsoft.WindowsDesktop.App >= 3.0.0-preview3-27504-2",
       "PaymentContext.Domain >= 1.0.0",
-      "PaymentContext.Shared >= 1.0.0"
+      "PaymentContext.Shared >= 1.0.0",
+      "flunt >= 1.0.3"
     ]
   },
   "packageFolders": {
@@ -7050,6 +7076,10 @@
             "target": "Package",
             "version": "[3.0.0-preview3-27504-2, )",
             "autoReferenced": true
+          },
+          "flunt": {
+            "target": "Package",
+            "version": "[1.0.3, )"
           }
         },
         "imports": [
