@@ -14,7 +14,7 @@ namespace PaymentContext.Tests
         private readonly Name _name;
         private readonly Document _document;
         private readonly Student _student;
-        private readonly Adress _address;
+        private readonly Address _address;
         private readonly Email _email;
         private readonly Subscription _subscription;
 
@@ -23,7 +23,7 @@ namespace PaymentContext.Tests
             _name = new Name("Guilherme", "Ramos Mendes");
             _document = new Document("11950265609", EDocumentType.CPF);
             _email = new Email("guilherme.mendes@interplayer.com.br");
-            _address = new Adress("Rua Ricardo Zacharias", "50", "Parque América", "São Paulo", "SP", "Brasil", 04841020);
+            _address = new Address("Rua Ricardo Zacharias", "50", "Parque América", "São Paulo", "SP", "Brasil", 04841020);
             _student = new Student(_name, _document, _email);
             _subscription = new Subscription(null);
         }
