@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj": {}
+    "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Tests\\PaymentContext.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
+    "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+        "projectUniqueName": "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
         "projectName": "PaymentContext.Domain",
-        "projectPath": "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
-        "packagesPath": "C:\\Users\\guilherme.mendes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Domain\\obj\\",
+        "projectPath": "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+        "packagesPath": "C:\\Users\\gramo\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\guilherme.mendes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gramo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -38,8 +38,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
-                "projectPath": "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
+              "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+                "projectPath": "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
               }
             }
           }
@@ -72,21 +72,21 @@
         }
       }
     },
-    "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+    "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+        "projectUniqueName": "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
         "projectName": "PaymentContext.Shared",
-        "projectPath": "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
-        "packagesPath": "C:\\Users\\guilherme.mendes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Shared\\obj\\",
+        "projectPath": "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+        "packagesPath": "C:\\Users\\gramo\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\guilherme.mendes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gramo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -136,21 +136,21 @@
         }
       }
     },
-    "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj": {
+    "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Tests\\PaymentContext.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+        "projectUniqueName": "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
         "projectName": "PaymentContext.Tests",
-        "projectPath": "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
-        "packagesPath": "C:\\Users\\guilherme.mendes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Tests\\obj\\",
+        "projectPath": "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+        "packagesPath": "C:\\Users\\gramo\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\guilherme.mendes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gramo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -170,11 +170,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
-                "projectPath": "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
+              "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
+                "projectPath": "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
               },
-              "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
-                "projectPath": "C:\\Users\\guilherme.mendes\\dev\\DominioRico\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
+              "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+                "projectPath": "C:\\Development\\DominiosRicos\\PaymentContext\\RichDomain\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
               }
             }
           }

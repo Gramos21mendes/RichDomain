@@ -1,12 +1,3 @@
-C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.deps.json
-C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
-C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
-C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csproj.CoreCompileInputs.cache
-C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfoInputs.cache
-C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfo.cs
-C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.dll
-C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.pdb
-C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csprojAssemblyReference.cache
 C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.deps.json
 C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
 C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
@@ -16,3 +7,12 @@ C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Shared\o
 C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfo.cs
 C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.dll
 C:\Users\guilherme.mendes\dev\DominioRico\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.pdb
+C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.deps.json
+C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
+C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
+C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csprojAssemblyReference.cache
+C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csproj.CoreCompileInputs.cache
+C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfoInputs.cache
+C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfo.cs
+C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.dll
+C:\Development\DominiosRicos\PaymentContext\RichDomain\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.pdb
