@@ -54,6 +54,5 @@ namespace PaymentContext.Domain.Entities
             if (Valid)
                 _subscriptions.Add(subscription);
         }
-
     }
 }

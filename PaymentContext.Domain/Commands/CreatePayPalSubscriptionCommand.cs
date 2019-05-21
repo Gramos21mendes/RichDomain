@@ -1,11 +1,13 @@
 using System;
+using Flunt.Notifications;
+using Flunt.Validations;
 using PaymentContext.Domain.Enums;
 using PaymentContext.Domain.ValueObjects;
 using PaymentContext.Shared.Commands;
 
 namespace PaymentContext.Domain.Commands
 {
-    public class CreatePayPalSubscriptionCommand : ICommand
+    public class CreatePayPalSubscriptionCommand : Notifiable, ICommand
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -27,6 +29,17 @@ namespace PaymentContext.Domain.Commands
         public string City { get; set; }
         public string State { get; set; }
         public string Country { get; set; }
-        public string ZipCode { get; set; }
+        public int ZipCode { get; set; }
+
+        public void Validate()
+        {
+            AddNotifications(new Contract()
+                .Requires()
+                .IsNullOrEmpty(FirstName, "Name.FirstName", "Nome inválido")
+                .IsNullOrEmpty(LastName, "Name.LastName", "Sobrenome inválido")
+                .HasMinLen(FirstName, 3, "Name.FirstName", "O Nome deve ter pelo menos 3 caracteres")
+                .HasMinLen(LastName, 3, "Name.LastName", "O Sobrenome deve ter pelo menos 3 caracteres")
+            );
+        }
     }
 }
