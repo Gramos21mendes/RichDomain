@@ -128,15 +128,12 @@ namespace PaymentContext.Domain.Handlers
             //Salvar informações
             if (Valid)
             {
-
-
                 _repository.CreateSubscription(student);
 
                 //Enviar E-mail de boas-vindas
                 _emailService.Send(student.Name.ToString(), student.Email.Address, "Bem vindo !", "Sua Assinatura foi criada.");
 
                 //retornar informações
-
                 return new CommandResult(true, "Assinatura realizada com sucesso.");
 
             }
